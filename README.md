@@ -1,6 +1,5 @@
 Ethernet-Bonding-and-Eucalyptus
 ===============================
-To be converted to a community question...
 
 Affected Versions: [All]
 
